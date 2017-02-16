@@ -4,6 +4,14 @@ C#での回答
 
 https://github.com/asksaito/CodeIQ_GemString/blob/master/CodeIQ_ConsoleApplication1/Program.cs
 
+#### 実行結果
+TASK1 RESULT:558834983  
+TASK2 RESULT:2198286198  
+TASK3 RESULT:558834982  
+TASK4 RESULT:2198286198  
+TASK5 RESULT:64622078  
+5578864439日目  
+
 #### 工夫した点
 基本的にはすべてのパターンを順番に走査していくが、
 時間が掛かりすぎるので並列処理出来るようにした。
