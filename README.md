@@ -2,6 +2,8 @@
 
 C#での回答
 
+https://github.com/asksaito/CodeIQ_GemString/blob/master/CodeIQ_ConsoleApplication1/Program.cs
+
 #### 工夫した点
 基本的にはすべてのパターンを順番に走査していくが、
 時間が掛かりすぎるので並列処理出来るようにした。
